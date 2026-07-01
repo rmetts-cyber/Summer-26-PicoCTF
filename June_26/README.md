@@ -1,4 +1,5 @@
 My name is Riley Metts, and I’m 16 years old. I’ve been interested in cybersecurity for a while, and it’s something I want to do as a career in the future. I enjoy learning about cryptography, reverse engineering, and web security because I like figuring out how things work and how to make them more secure.
+
 To learn more, I’ve been working through cybersecurity challenges on CyLab Security Academy during my summer break. During the month of June, I completed General Skills in CTF's, The Beginner's Guide to the Challenge Library, and Python in CTF's. I also got 72% done with Low Level Binary Intro, 60% done with Cryptography and the Challenge Library, 13% through the Vault Door Series, and 6% done with Forensics in CTFs. These challenges have taught me a lot and helped me get better at solving problems. They’ve also made me even more interested in cybersecurity, and I’m excited to keep learning and improving my skills so I can work in the field one day.
 
 <img width="1389" height="797" alt="Screenshot 2026-07-01 10 29 39" src="https://github.com/user-attachments/assets/83a0dcb1-c04d-4505-9d2c-35a51dfc65a8" />
